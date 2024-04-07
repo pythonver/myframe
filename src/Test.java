@@ -6,9 +6,7 @@ import java.awt.geom.RoundRectangle2D;
 public class Test {
     public static void main(String[] args) {
         new frame();
-        System.out.println();
-        System.out.println();
-        System.out.println();
+
     }
 
 }
